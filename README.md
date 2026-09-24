@@ -1,5 +1,11 @@
 <div align="center">
 
+**Language / Jazyk:** **English** · [Slovenčina](https://github.com/baliakM-dev/baliakM-dev/blob/main/README.sk.md)
+
+</div>
+
+<div align="center">
+
 # Martin Baliak
 
 ### Software Developer • Java / Spring Boot • Oracle / PL/SQL • React / TypeScript
